@@ -11,7 +11,7 @@ This is a simple and responsive QR Code generator web application built using **
 
 ## Demo
 
-You can try the app live here: [QR Code Generator](<insert-live-link-here>)
+You can try the app live here: [QR Code Generator](<https://qrcoder.streamlit.app/>)
 
 ## Screenshots
 
